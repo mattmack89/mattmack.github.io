@@ -9,22 +9,42 @@
 
 <url>
   <loc>https://www.widersecurity.com/</loc>
-  <lastmod>2020-01-25T18:16:02+00:00</lastmod>
+  <lastmod>2020-01-26T22:58:14+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.widersecurity.com/about</loc>
-  <lastmod>2020-01-25T18:16:02+00:00</lastmod>
+  <lastmod>2020-01-26T22:58:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.widersecurity.com/Cyber%20Security</loc>
+  <lastmod>2020-01-26T23:00:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.widersecurity.com/Engineering%20&amp;%20Integration</loc>
+  <lastmod>2020-01-26T23:00:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.widersecurity.com/Information%20Technology</loc>
+  <lastmod>2020-01-26T23:00:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.widersecurity.com/Logistics</loc>
+  <lastmod>2020-01-26T23:00:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.widersecurity.com/services</loc>
-  <lastmod>2020-01-25T18:16:02+00:00</lastmod>
+  <lastmod>2020-01-26T23:00:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.widersecurity.com/contact</loc>
-  <lastmod>2020-01-25T18:16:02+00:00</lastmod>
+  <lastmod>2020-01-26T23:00:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
