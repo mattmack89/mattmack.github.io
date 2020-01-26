@@ -2106,41 +2106,6 @@ button,
         position: absolute;
         right: -0.5em;
         top: 0; } }
-        
-/* logo2 */        
-#logo2 {
-  display: block;
-  width: auto;
-}
-span {
-  font-size: 25px;
-  font-weight: bold;
-  overflow: hidden;
-  display: block;
-  float: left;
-  margin-right: 1px;
-  width: auto;
-  -webkit-transition: width 1s; /* Safari */
-  transition: width 1s;
-}
-.span-1 {
-   width: 19px; 
-}
-.span-2 {
-  width: 17px;
-}
-a {
-  text-decoration: none;
-  color: #654321;
-  
-}
-a:hover span.span-1 {
-  width: 100px;
-}
-a:hover span.span-2 {
-  width: 160px;
-}
-
 
 /* Banner */
 #banner {
