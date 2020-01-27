@@ -1426,7 +1426,7 @@ ul.pagination {
         ul.pagination li > .page.active:hover {
           background-color: #b5651d; }
         ul.pagination li > .page.active:active {
-          background-color: #f45c5c; }
+          background-color: #b5651e; }
     ul.pagination li:first-child {
       padding-right: 0.75em; }
     ul.pagination li:last-child {
@@ -1567,7 +1567,7 @@ button,
     input[type="button"].primary:active,
     button.primary:active,
     .button.primary:active {
-      background-color: #f45c5c; }
+      background-color: #b5651e; }
   input[type="submit"].disabled, input[type="submit"]:disabled,
   input[type="reset"].disabled,
   input[type="reset"]:disabled,
